@@ -1,10 +1,9 @@
 title: Buck Marshall # your name (or website title) here
 logo: "/images/buck.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  
   <br>Well-rounded team player and proven leader, with an extensive understanding of software development, aerospace manufacturing, and agile project management developed through work experience and military leadership.<br>
-  Second description 
-  <br><br>
+
   <a href="https://www.linkedin.com/in/raymondbuckmarshall/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
